@@ -1,0 +1,33 @@
+.first_blog{
+    background-color:pink;
+    font-size: medium;
+    font-style: italic;
+    border: 2px saddlebrown;
+}
+
+.second_blog{
+background-color: yellow;
+font-size: xx-large;
+font-style: oblique;
+border: 3px;
+}
+
+.third_blog{
+    background-color: purple;
+    font-size: xx-small;
+    font-style: italic;
+    border: 5px;
+}
+
+.fourth_blog{
+    background-color: black;
+    font-size: larger;
+    font-style: inherit;
+    border: 15px;
+}
+
+
+
+
+
+
