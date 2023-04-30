@@ -26,6 +26,28 @@ border: 3px;
     border: 15px;
 }
 
+.h1{
+    font-size: small;
+    color:aqua   
+}
+.h2{
+    font-size: smaller;
+    color:lime
+}
+.td{
+    border: 5px;
+    background-color: aqua;
+    color:white
+    
+}
+.p{
+    word: spacing 1px;
+    font-size: smaller;
+}
+.input[type=submit]{
+color: 
+}
+    
 
 
 
