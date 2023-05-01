@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .first_blog{
     background-color:pink;
     font-size: medium;
@@ -27,27 +33,115 @@ border: 3px;
 }
 
 .h1{
+    padding-top: 1rem;
+    padding-left: 1rem;
     font-size: small;
     color:aqua   
 }
 .h2{
+    padding: 1rem;
+    padding: 1rem;
     font-size: smaller;
     color:lime
 }
-.td{
-    border: 5px;
-    background-color: aqua;
-    color:white
-    
-}
+
 .p{
-    word: spacing 1px;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
     font-size: smaller;
+    line-height: 22px;
+    padding-left: 1rem;
 }
-.input[type=submit]{
-color: 
+.button class{
+    background-color: blanchedalmond;
+    color: blue;
+    font-size: 12px;
+    padding: 10px 70px 10px 70px;
+    border: hidden;
+    margin-bottom: 20px;
+
 }
+.abel{
+    width: 50%;
+    border: 1px solid black;
+    margin-top: 60px;
+    margin-left: 250px;
+    margin-right: 0;
+    margin-bottom: 0;
+    height: 100%;
+    border-radius: 4px;
+}
+.peace{
+    background-color: white;
+}
+
+.product-details{
+
+    background-color: #fff 
     
+}
+body{
+    background-color: aquamarine;
+}
+.products{
+    display: flex;
+}
+.price{
+    width: 50%;
+    background-color: aquamarine;
+}
+.details{
+    width: 50%;
+    background-color: aqua;
+}
+    .h5{
+        color: #fff;
+        font-size: large;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 2rem;
+    }
+    .h6{
+        color: #fff;
+        font-size: x-large;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 2rem;
+    }
+    .h7{
+        color: #fff;
+        font-size: medium;
+        margin-bottom: 25px;
+        text-align: left;
+        padding-left: 2rem;
+    }
+    .h8{
+        color: #fff;
+        padding-left: 2rem;
+    }
+
+    .span{
+        color: #fff;
+        font-size: larger;
+    }
+    .h9{
+        padding-left: 2rem;
+        color: #fff;
+        line-height: 22px;
+    }
+    .sign-up{
+        align-items: center;
+        width: 12rem;
+        height: 2rem;
+        background-color: greenyellow;
+        border-radius: 5px;
+    }
+    .button{
+        padding-top: 3rem;
+        padding-left: 2rem;
+    }
+    
+
 
 
 
