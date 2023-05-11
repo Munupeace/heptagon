@@ -81,7 +81,7 @@ border: 3px;
     
 }
 body{
-    background-color: aquamarine;
+    background-color: white;
 }
 .products{
     display: flex;
@@ -140,7 +140,21 @@ body{
         padding-top: 3rem;
         padding-left: 2rem;
     }
-    
+    .parent{
+        margin:auto;
+        width: 50%;
+        background-color: maroon;
+        margin-top: 20px;
+    }
+    .child{
+        padding: 20px;
+    }
+
+
+
+
+
+
 
 
 
