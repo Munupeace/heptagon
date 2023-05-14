@@ -2,17 +2,26 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    
+    
 }
 .pookie{
+    background-image: url(../pookie.jpeg);
+background-size: cover;
+background-position: center;
+box-sizing: border-box;
+font-family: sans-serif;
     width: 100%;
     display: flex;
     margin-top: 100px;
     border: 1px solid white;
     
-
+    
+    
 }
+
 .mama{
-    background: red;
+    background: rgba(255,0,0,0.7);
 
     justify-content: center;
     height: 22rem;
@@ -42,21 +51,27 @@
     padding-left: 2rem;
     text-align: center;
     
+    
  
 }
 .know-more{
 padding: 0.7rem;
-border-radius: 10px;
+border-radius: 30px;
 background-color: transparent;
 color: white;
 border: 3px solid white;
 width: 10rem;
 text-align: center;
 
+
 }
+.know-more:hover{
+   background-color: blue;
+}
+
 .papa{
     
-        background:green;
+        background: rgba(0,255,255,0.7);
         align-items: center;
         justify-content: center;
         height: 22rem;
@@ -82,7 +97,7 @@ text-align: center;
     text-align: center;
 }
 .children{
-        background:orangered;
+        background-color: rgba(255,165,0,0.7);
         align-items: center;
         justify-content: center;
         height: 22rem;
