@@ -6,18 +6,19 @@
     
 }
 .pookie{
-    background-image: url(../pookie.jpeg);
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-font-family: sans-serif;
+
+
     width: 100%;
     display: flex;
     margin: 50px auto;
     border: 1px solid white;
-    justify-content: center;
+    /* justify-content: center; */
     
-    
+    background-image: url(../pookie.jpeg);
+    background-size: 433px 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
     
 }
 

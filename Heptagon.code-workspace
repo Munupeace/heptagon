@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../links2"
+		},
+		{
+			"path": "../PROJECT 1"
+		},
+		{
+			"path": "../practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Heptagon"
+	}
+}
