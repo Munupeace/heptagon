@@ -128,7 +128,7 @@ text-align: center;
     font-family: sans-serif;
     
 }
-@media screen and (min-width: 442px){
+@media screen and (min-width: 200px){
     .pookie{
         display: flex;
         flex-direction: column;
