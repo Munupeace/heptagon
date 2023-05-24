@@ -27,7 +27,7 @@
 
     justify-content: center;
     height: 22rem;
-    width: 23rem;
+    width: 30rem;
     padding-left: 2rem;
     padding-top: 2rem;
     padding-right: 2rem;
@@ -77,7 +77,7 @@ text-align: center;
         align-items: center;
         justify-content: center;
         height: 22rem;
-        width: 23rem;
+        width: 30rem;
         padding-left: 2rem;
         padding-top: 2rem;
         padding-right: 2rem;
@@ -103,7 +103,7 @@ text-align: center;
         align-items: center;
         justify-content: center;
         height: 22rem;
-        width: 23rem;
+        width: 30rem;
         padding-left: 2rem;
         padding-top: 2rem;
         padding-right: 2rem;
@@ -128,7 +128,7 @@ text-align: center;
     font-family: sans-serif;
     
 }
-@media screen and (max-width: 760px){
+@media screen and (min-width: 442px){
     .pookie{
         display: flex;
         flex-direction: column;
