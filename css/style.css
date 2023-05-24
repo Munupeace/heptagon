@@ -10,13 +10,13 @@
 
     width: 100%;
     display: flex;
-    margin: 50px auto;
+    /* margin: 50px auto; */
     border: 1px solid white;
-    /* justify-content: center; */
-    
+    justify-content: center;
+    max-width: fit-content;
     background-image: url(../pookie.jpeg);
-    background-size: 433px 100%;
-    background-position: left;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     font-family: sans-serif;
     
@@ -128,12 +128,11 @@ text-align: center;
     font-family: sans-serif;
     
 }
-@media screen and (min-width: 483.20px){
+@media screen and (max-width: 760px){
     .pookie{
         display: flex;
         flex-direction: column;
-        margin-top: 50px;
-        width: 100%;
+        
 
     }
 }
